@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabesvr&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabesvr&theme=transparent&color=2563eb&line=2563eb&point=2563eb&hide_border=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabesvr&theme=transparent&hide_border=true&title_color=2563eb&ring=2563eb&fire=2563eb&currStreakNum=2563eb" width="48%">
 </div>
 
