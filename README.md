@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Gabriel%20Vieira&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20&%20Linux%20Ricing%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Gabriel%20Vieira&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20&%20Linux%20Systems&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">Building robust software, low-latency Linux interfaces, and exploring cybersecurity.</h3>
@@ -12,18 +12,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🛡️ **Cybersecurity Intern & IT Technician** at [Sunviauto](https://sunviauto.pt/) (until Dec 2025)
-- 🎓 Studying **Computer Engineering** at ISLA Gaia (2024 - 2027)
-- 📜 Graduated with a CTeSP in **Computer Networks and Systems**
-- 💻 Specialized in Linux system optimization (CachyOS / Arch Linux), Wayland compositors (Hyprland), custom QML/QuickShell desktop widgets, and reverse engineering.
+- **Cybersecurity Intern & IT Technician** at [Sunviauto](https://sunviauto.pt/) (until Dec 2025)
+- Studying **Computer Engineering** at ISLA Gaia (2024 - 2027)
+- Graduated with a CTeSP in **Computer Networks and Systems**
+- Specialized in Linux system optimization (CachyOS / Arch Linux), Wayland compositors (Hyprland), custom QML/QuickShell desktop widgets, and reverse engineering.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### ❄️ [ashestia-dots](https://github.com/gabesvr/ashestia-dots)
+#### [ashestia-dots](https://github.com/gabesvr/ashestia-dots)
 > Zero-latency, minimalist gaming and daily productivity Hyprland setup on CachyOS / Arch Linux. Features custom QuickShell desktop widgets (clock, calendar, weather, music player with synchronized lyrics & LiquidGlass styling), foot terminal with Sixel Fastfetch rotation, and dynamic Matugen theming.
 
 <div align="center">
@@ -34,18 +34,18 @@
 
 <br>
 
-#### 🎨 [ACCELA • Full Installation + Custom Theme](https://github.com/gabesvr/accela-easy-install)
+#### [accela-easy-install](https://github.com/gabesvr/accela-easy-install)
 > Automated 1-command installer and custom aesthetic theme for ACCELA on Linux. Includes integrated retro Macintosh theme, dancing pixel art music player, and 100% automated SLSsteam configuration with direct Steam library downloads.
 
 <div align="center">
   <a href="https://github.com/gabesvr/accela-easy-install">
-    <img src="assets/accela.gif" alt="ACCELA Custom Theme Animation" width="95%" />
+    <img src="assets/accela.gif" alt="ACCELA Animation" width="95%" />
   </a>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
   <!-- Core Languages & Linux -->
