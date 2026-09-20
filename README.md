@@ -34,23 +34,14 @@
 
 <br>
 
-#### 🎨 [accela-custom-theme](https://github.com/gabesvr/accela-custom-theme)
-> Custom aesthetic retro theme, integrated music player with dancing pixel art mascot, and 100% automated SLSsteam installer for ACCELA on Linux. Downloads directly to Steam library with instant restart optimizations and Hyprland floating window rules.
+#### 🎨 [ACCELA • Full Installation + Custom Theme](https://github.com/gabesvr/accela-custom-theme)
+> Automated 1-command installer and custom aesthetic theme for ACCELA on Linux. Includes integrated retro Macintosh theme, dancing pixel art music player, and 100% automated SLSsteam configuration with direct Steam library downloads.
 
 <div align="center">
   <a href="https://github.com/gabesvr/accela-custom-theme">
-    <img src="assets/accela.gif" alt="ACCELA Custom Theme Animation" width="48%" />
-    <img src="assets/accela-preview.png" alt="ACCELA Preview" width="48%" />
+    <img src="assets/accela.gif" alt="ACCELA Custom Theme Animation" width="95%" />
   </a>
 </div>
-
-<br>
-
-#### 🌊 [ondas-cava](https://github.com/gabesvr/ondas-cava)
-> Custom real-time audio visualizer configurations and dynamic responsive waveforms for Linux terminals using CAVA.
-
-#### ⚡ [Zeal](https://github.com/gabesvr/Zeal)
-> Minimalist workout and fitness tracking application designed with a focused, distraction-free interface.
 
 ---
 
@@ -74,8 +65,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabesvr&theme=transparent&color=7c3aed&line=7c3aed&point=7c3aed&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabesvr&theme=transparent&hide_border=true&title_color=7c3aed&ring=7c3aed&fire=7c3aed&currStreakNum=7c3aed" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabesvr&theme=transparent&hide_border=true&title_color=7c3aed&ring=7c3aed&fire=7c3aed&currStreakNum=7c3aed" />
 </div>
 
 ---
