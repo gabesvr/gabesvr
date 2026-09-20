@@ -34,11 +34,11 @@
 
 <br>
 
-#### 🎨 [ACCELA • Full Installation + Custom Theme](https://github.com/gabesvr/accela-custom-theme)
+#### 🎨 [ACCELA • Full Installation + Custom Theme](https://github.com/gabesvr/accela-easy-install)
 > Automated 1-command installer and custom aesthetic theme for ACCELA on Linux. Includes integrated retro Macintosh theme, dancing pixel art music player, and 100% automated SLSsteam configuration with direct Steam library downloads.
 
 <div align="center">
-  <a href="https://github.com/gabesvr/accela-custom-theme">
+  <a href="https://github.com/gabesvr/accela-easy-install">
     <img src="assets/accela.gif" alt="ACCELA Custom Theme Animation" width="95%" />
   </a>
 </div>
