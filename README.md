@@ -18,8 +18,8 @@
 ## About me
 
 ```yaml
-name:      Gabriel Henrique Vieira
-based_in:  Porto, Portugal
+name:      Gabriel Vieira
+based_in:  Switzerland
 studying:  Computer Engineering @ ISLA Gaia (2024 - 2027)
 degree:    CTeSP in Computer Networks and Systems
 worked_as: Cybersecurity Intern & IT Technician @ Sunviauto (until Dec 2025)
